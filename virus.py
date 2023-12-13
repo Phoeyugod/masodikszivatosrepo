@@ -5,3 +5,4 @@ color('cyan')
 bgcolor('black')
 b = 200
 while b > 0:
+    left(b)
