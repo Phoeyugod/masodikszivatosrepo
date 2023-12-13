@@ -3,3 +3,5 @@ from turtle import *
 speed(50)
 color('cyan')
 bgcolor('black')
+b = 200
+
