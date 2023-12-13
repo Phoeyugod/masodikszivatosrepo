@@ -1,0 +1,1 @@
+#sziasztok eze gy virus kineztu ize
