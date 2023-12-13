@@ -1,4 +1,4 @@
-#sziasztok eze gy virus kineztu ize
+#sziasztok ez egy virus kineztu ize
 from turtle import *
 speed(50)
 color('cyan')
@@ -8,3 +8,4 @@ while b > 0:
     left(b)
     forward(b * 3)
     b = b -1
+#sziasztok
